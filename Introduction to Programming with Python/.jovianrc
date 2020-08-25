@@ -2,6 +2,18 @@
   "notebooks": {
     "python-practice-assignment.ipynb": {
       "slug": "6a7169ecffa243fe961c7a9ef8eea766"
+    },
+    "first-steps-with-python.ipynb": {
+      "slug": "9b9a31eaa8654b7185f0a05736029ecf"
+    },
+    "Variables_and_DataTypes_in_Python.ipynb": {
+      "slug": "0a87fa450d644f81a48561895fb64261"
+    },
+    "python-branching-and-loops.ipynb": {
+      "slug": "c46b9326dc02493693e5bd962d040f00"
+    },
+    "python-functions-and-scope.ipynb": {
+      "slug": "daa4fb6692f14e3fb29959b1549aeb1a"
     }
   }
 }
